@@ -1,4 +1,4 @@
-# 3.12-LAB-Happy-birthday-message-creator-HTML-
+3.12 LAB: Happy birthday message creator (HTML)
 Edit the given web form that allows the user to enter a birthday message and select various message options. The web page uses CSS to align the form widgets vertically. The web page should look like the following:
 
 <img src="https://static-resources.zybooks.com/static/zyLab/happy_birthday_message_creator.png" alt="3.12 lab">
